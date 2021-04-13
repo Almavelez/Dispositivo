@@ -5,7 +5,7 @@
 #include "ProxyHistorial.hpp"
 
 #define SSID "Iot"
-#define PASS  "12345678"
+#define PASS  ""
 #define HUELLA_DIGITAL "7094dedde6c469483a9270a14856782d1864e0b7"
 #define DISPOSITIVO_ID "iot2"
 #define ID_PROYECTO "controlavm"
